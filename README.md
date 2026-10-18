@@ -126,6 +126,12 @@ Codex Usage Bar 在 Codex 窗口右上角显示额度周期、**剩余百分比*
 - [架构与开发说明](docs/ARCHITECTURE.md)：数据链路、窗口生命周期、绘制与可见性机制。
 - [贡献指南](CONTRIBUTING.md) · [版本记录](CHANGELOG.md) · [第三方素材](THIRD_PARTY_NOTICES.md)
 
+## 贡献者
+
+由 [@wutop1an](https://github.com/wutop1an) 发起并维护，
+[Codex（OpenAI）](https://openai.com/codex/) 参与代码实现、重构、测试与文档整理。
+完整分工见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
+
 ## License
 
 项目代码采用 [MIT License](LICENSE)。重置图标来自 Microsoft Fluent UI System Icons，

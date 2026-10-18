@@ -15,7 +15,7 @@ $staging = Join-Path ([IO.Path]::GetTempPath()) ('codex-usage-bar-package-' + [g
 $package = Join-Path $staging $packageName
 New-Item -ItemType Directory -Path $package -Force | Out-Null
 $files = @('README.md', 'README.en.md', 'LICENSE', 'THIRD_PARTY_NOTICES.md', 'CHANGELOG.md',
-    'CONTRIBUTING.md', 'app.manifest', 'build.ps1', 'start.ps1', 'stop.ps1', 'test.ps1', 'package.ps1',
+    'CONTRIBUTING.md', 'CONTRIBUTORS.md', 'app.manifest', 'build.ps1', 'start.ps1', 'stop.ps1', 'test.ps1', 'package.ps1',
     'Start.cmd', 'Stop.cmd', '.editorconfig', '.clang-format', '.gitignore')
 foreach ($file in $files) { Copy-Item -LiteralPath (Join-Path $PSScriptRoot $file) -Destination $package }
 foreach ($folder in @('src', 'tests', 'assets', 'docs', '.github')) {

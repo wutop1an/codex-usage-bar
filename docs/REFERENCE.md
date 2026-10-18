@@ -71,6 +71,7 @@
 | `docs/ARCHITECTURE.md` | 设计决策、线程和数据流程 |
 | `docs/assets/preview.png` | 使用合成额度生成的展示图 |
 | `CONTRIBUTING.md` | 贡献和验证要求 |
+| `CONTRIBUTORS.md` | 维护者与 Codex 的贡献分工 |
 | `CHANGELOG.md` | 版本变化 |
 | `LICENSE` / `THIRD_PARTY_NOTICES.md` | 项目与素材的授权说明 |
 

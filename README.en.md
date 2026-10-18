@@ -65,6 +65,12 @@ limits, which may differ from the desktop account. API billing and per-task cost
 Local diagnostics are stored in `%LOCALAPPDATA%\CodexUsageBar\status.json`; remove account usage and
 window/process details before sharing. No runtime account data is committed to this repository.
 
+## Contributors
+
+Created and maintained by [@wutop1an](https://github.com/wutop1an), with implementation, refactoring,
+testing and documentation assistance from [Codex (OpenAI)](https://openai.com/codex/).
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the contribution breakdown.
+
 MIT licensed. The reset icon is from Microsoft's Fluent UI System Icons, with its license retained.
 This project is not affiliated with or endorsed by OpenAI.
 
