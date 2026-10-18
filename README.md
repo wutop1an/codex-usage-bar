@@ -43,6 +43,12 @@ Codex Usage Bar 在 Codex 窗口右上角显示额度周期、**剩余百分比*
 
 无需 Node.js、Python、NuGet 包或独立 .NET SDK。
 
+### 下载可运行版本
+
+前往 [Releases](https://github.com/wutop1an/codex-usage-bar/releases/latest)，下载
+`codex-usage-bar-2.2.0-windows-x64.zip`，解压后双击 **`Start.cmd`**。
+包内包含正式 exe、完整源码和说明；同页提供 SHA-256 校验文件。
+
 ### 下载源码后运行
 
 1. 点击本页 **Code → Download ZIP**，或运行：

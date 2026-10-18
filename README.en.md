@@ -20,6 +20,10 @@ The current interface labels are Chinese. `周限额 75%` means **75% remaining*
 
 ## Run
 
+For a prebuilt executable, download the `windows-x64.zip` from
+[Releases](https://github.com/wutop1an/codex-usage-bar/releases/latest), extract it, and run `Start.cmd`.
+The package also contains the complete source and documentation. A SHA-256 file is provided alongside it.
+
 Install and sign in to the Windows Codex desktop app. .NET Framework 4.8 and Windows PowerShell
 are required; a separate .NET SDK, Node.js, and Python are not needed.
 
