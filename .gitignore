@@ -1,0 +1,10 @@
+/bin/
+/dist/
+/.tools/
+*.user
+*.log
+status.json
+__pycache__/
+.DS_Store
+Thumbs.db
+
